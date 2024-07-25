@@ -1,5 +1,9 @@
+<?php 
+
 \Magento\Framework\Component\ComponentRegistrar::register(
     \Magento\Framework\Component\ComponentRegistrar::MODULE,
-    'ConTech_HelloWorld',
+    'ContinentalTech_AdminLogo',
     __DIR__
 );
+
+?>
